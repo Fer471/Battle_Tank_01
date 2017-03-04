@@ -12,3 +12,4 @@ un juego de tanques, que pertenece a unreal course, solo utilizado para aprender
 
 ##lista de clases/commits
 1. Creando repo de GitHub
+2. Desde SourceTree a GitHub
